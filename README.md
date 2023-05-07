@@ -8,6 +8,6 @@ https://user-images.githubusercontent.com/116038369/236651159-d6f1e717-2a87-4bb2
 ## Screenshot of example README from the video
 ![ExampleRM](https://user-images.githubusercontent.com/116038369/236651371-c4f38d63-a9dc-4f03-a697-6f96724753f5.png)
 
-## Deployed GitHub URL
-https://chelsea-marie.github.io/README-Generator/
+## GitHub URL
+https://github.com/Chelsea-Marie/README-Generator
 
